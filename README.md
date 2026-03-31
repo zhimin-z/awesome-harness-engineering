@@ -8,6 +8,7 @@ Generic agent tooling is out of scope unless the page directly covers harness de
 
 ## Contents
 
+- [Courses & Learning Resources](#courses--learning-resources)
 - [Foundations](#foundations)
 - [Context, Memory & Working State](#context-memory--working-state)
 - [Constraints, Guardrails & Safe Autonomy](#constraints-guardrails--safe-autonomy)
@@ -15,9 +16,12 @@ Generic agent tooling is out of scope unless the page directly covers harness de
 - [Evals & Observability](#evals--observability)
 - [Benchmarks](#benchmarks)
 - [Runtimes, Harnesses & Reference Implementations](#runtimes-harnesses--reference-implementations)
-- [Courses & Learning Resources](#courses--learning-resources)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Courses & Learning Resources
+
+- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - A project-based course repository on making Codex and Claude Code more reliable, centered on an Electron personal knowledge base app with lecture handouts, example artifacts, and practical harness projects.
 
 ## Foundations
 
@@ -127,10 +131,6 @@ These benchmarks are especially useful when you want to compare harness quality,
 - [SWE-ReX](https://github.com/SWE-agent/SWE-ReX) - Sandboxed code execution infrastructure for AI agents, useful when harness work starts to merge into execution runtime design.
 - [AgentKit](https://github.com/inngest/agent-kit) - Inngest's TypeScript toolkit for building durable, workflow-aware agents on top of event-driven infrastructure.
 - [Harbor](https://github.com/harbor-framework/harbor) - A generalized harness for evaluating and improving agents at scale, released alongside Terminal-Bench 2.0.
-
-## Courses & Learning Resources
-
-- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - A project-based course repository on making Codex and Claude Code more reliable, centered on an Electron personal knowledge base app with lecture handouts, example artifacts, and practical harness projects.
 
 ## Contributing
 
